@@ -7,4 +7,7 @@ module ApplicationHelper
     "#{base_title} | #{page_title}"
   end
  end
+ def render_my_partial
+  render "my_partial"
+ end
 end
