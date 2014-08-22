@@ -1,4 +1,6 @@
 PennApp::Application.routes.draw do
+  get "staticpages/experienced"
+  get "staticpages/new_user"
   get "static_pages/home"
   get "static_pages/help"
   get "static_pages/about"

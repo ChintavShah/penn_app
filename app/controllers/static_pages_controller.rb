@@ -8,10 +8,9 @@ class StaticPagesController < ApplicationController
   def about
   end
 
-  def new_user
-  end 
-
   def experienced
   end
-  
+
+  def new_user
+  end
 end
