@@ -13,4 +13,7 @@ class StaticPagesController < ApplicationController
 
   def new_user
   end
+
+  def contact
+  end
 end
