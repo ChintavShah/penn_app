@@ -15,3 +15,10 @@
 //= require bootstrap.min
 //= require turbolinks
 //= require_tree .
+//= require agency
+//= require cbpAnimatedHeader
+//= require cbpAnimatedHeader.min
+//= require classie
+//= require contact_me
+//= require jqBootstrapValidation
+//= require jquery-1.11.0
